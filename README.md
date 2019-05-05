@@ -1,2 +1,4 @@
 # Python-audio-fingerprinting
-Jupyter notebooks that explains the process of audio fingerprinting for music recognition
+Using Python and Jupyter Notebooks to explain audio fingerprinting and some of its applications. Applications explored so far include:
+- Music recognition
+- Copy/alteration detection
